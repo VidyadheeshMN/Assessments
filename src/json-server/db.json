@@ -1,0 +1,63 @@
+{
+  "root": [
+    {
+      "label": "mainParent",
+      "children": [
+        {
+          "label": "parent",
+          "children": [
+            {
+              "label": "child1",
+              "children": [{ "label": "childx" }, { "label": "childy" }]
+            },
+            {
+              "label": "child2",
+              "children": [{ "label": "childz" }, { "label": "childzz" }]
+            }
+          ]
+        },
+        {
+          "label": "parent2",
+          "children": [
+            {
+              "label": "nestedparent",
+              "children": [{ "label": "child3" }, { "label": "child4" }]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    [
+      { "label": "image11", "url": "https://picsum.photos/200" },
+      { "label": "image12", "url": "https://picsum.photos/200" },
+      { "label": "image13", "url": "https://picsum.photos/200" },
+      { "label": "image14", "url": "https://picsum.photos/200" }
+    ],
+    [
+      { "label": "image21", "url": "https://picsum.photos/200" },
+      { "label": "image22" },
+      { "label": "image23", "url": "https://picsum.photos/200" },
+      { "label": "image24", "url": "https://picsum.photos/200" }
+    ],
+    [
+      { "label": "image31", "url": "https://picsum.photos/200" },
+      { "label": "image32", "url": "https://picsum.photos/200" },
+      { "label": "image33", "url": "https://picsum.photos/200" },
+      { "label": "image34", "url": "https://picsum.photos/200" }
+    ],
+    [
+      { "label": "image41", "url": "https://picsum.photos/200" },
+      { "label": "image42", "url": "https://picsum.photos/200" },
+      { "label": "image43" },
+      { "label": "image44", "url": "https://picsum.photos/200" }
+    ],
+    [
+      { "label": "image51", "url": "https://picsum.photos/200" },
+      { "label": "image52", "url": "https://picsum.photos/200" },
+      { "label": "image53", "url": "https://picsum.photos/200" },
+      { "label": "image54", "url": "https://picsum.photos/200" }
+    ]
+  ]
+}
